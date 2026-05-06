@@ -2,7 +2,7 @@
 title: "Sweet Escapes in Indiranagar: A Review of Yuki"
 date: "Mar 28, 2026"
 category: "food"
-image: "/photos/yukientrance.jpeg"
+image: "/photos/yuki/yukientrance.jpeg"
 ---
 
 If you find yourself wandering the lanes of Indiranagar looking for a spot that gets the lighting just right, I think I’ve found your next favorite hangout. Whether you’re looking to catch up with friends or just want a treat for yourself, this place brings a vibe that is hard to beat.
@@ -43,9 +43,9 @@ While I'm usually all about finding the best biryani, sometimes you just need a 
 
 I’m already planning my next visit. If you’re in the area and need a sweet pick-me-up, this is the place.
 
-![Entrance](/photos/yukientrance.jpeg)
-![Inside](/photos/yukiinside.jpeg)
+![Entrance](/photos/yuki/yukientrance.jpeg)
+![Inside](/photos/yuki/yukiinside.jpeg)
 
 **📸 Must-Order Dish**: Japanese Cheese Cake
-![Cheesecake](/photos/yukicheesecake1.jpeg)
-![Cocktail](/photos/yukicocktail1.jpeg)
+![Cheesecake](/photos/yuki/yukicheesecake1.jpeg)
+![Cocktail](/photos/yuki/yukicocktail1.jpeg)

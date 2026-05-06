@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Savoring the Evening at Good Vibes Cafe, Bogadi Mysuru"
 date: "Apr 20, 2026"
 category: "food"
-image: "/photos/image3.jpeg"
+image: "/photos/goodvibes/image3.jpeg"
 ---
 
 If you're looking for a spot that feels less like a commercial establishment and more like a cozy corner of a friend's home, Good Vibes Cafe in Bogadi lives up to its name. I spent a recent evening here, and it's the kind of place that instantly lowers your heart rate the moment you walk in.
@@ -25,7 +25,7 @@ The star of the evening, however, was the Coffee Ice Cream. Served in a classic 
 
 Good Vibes Cafe is a gem for those who value quality food and a peaceful atmosphere. It's the perfect evening retreat in Bogadi for anyone craving a "homey" touch to their snacks and a top-tier caffeine fix in dessert form.
 
-![Good Vibes Cafe](/photos/image0.jpeg)
-![Good Vibes Cafe](/photos/image1.jpeg)
-![Good Vibes Cafe](/photos/image2.jpeg)
+![Good Vibes Cafe](/photos/goodvibes/image0.jpeg)
+![Good Vibes Cafe](/photos/goodvibes/image1.jpeg)
+![Good Vibes Cafe](/photos/goodvibes/image2.jpeg)
 
